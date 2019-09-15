@@ -1,6 +1,6 @@
 {
   "name": "@tim-mays/loopback-connector-mysql",
-  "version": "5.4.4",
+  "version": "5.4.5",
   "description": "MySQL connector for loopback-datasource-juggler",
   "engines": {
     "node": ">=8"
